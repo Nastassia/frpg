@@ -1,0 +1,16 @@
+{
+  "name": "frpg",
+  "version": "1.0.0",
+  "description": "Fitness RPG",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Nastassia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.0",
+    "express-handlebars": "*"
+  }
+}
